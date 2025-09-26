@@ -1,10 +1,21 @@
 # Ex.No.9 Exploration of Prompting Techniques for Video Generation
 
-# Date:
-# Reg. No.:
+# Date : 26.09.2025
+# Name : SENTHIL KUMARAN C
+# Reg. No. : 212223220103
 
 # Aim:
 To demonstrate the ability of text-to-Video generation tools to reproduce an existing Video by crafting precise prompts. The goal is to identify key elements within the Video and use these details to generate an Video as close as possible to the original.
+
+# AI tools for video generation from text :
+
+1.Pika Labs (cinematic quality)
+2.Stable Video Diffusion / Sora (photorealistic urban scenes)
+3.Runway Gen-2 (3D simulation)
+4.Kaiber AI (educational animations)
+5.MidJourney (artistic storytelling)
+6.Genmo (artistic and symbolic videos)
+
 ## Procedure:
 1.	Analyze the Generated Video:
 ○	Examine the Video carefully, noting key elements such as:
@@ -48,6 +59,39 @@ Tools/LLMs for Video Generation:
 2.	The Final Generated Video: The Video created using your refined prompt.
 3.	Prompts Used: The text prompts created during the experiment.
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated Videos, along with any adjustments made to the prompt.
+
+# Prompts :
+
+```
+
+1. “A slow camera pan over snow-covered mountains at sunrise, golden light reflecting on the peaks, with soft mist moving through the valley.”
+
+2. “A bustling street in Tokyo at night, neon signs glowing, people walking with umbrellas in the rain, puddles reflecting colorful lights.”
+
+3. “A 3D animation of the human heart beating in high definition, arteries and veins clearly visible, with labels highlighting each part.”
+
+4. “A majestic dragon flying above ancient castles during sunset, wings casting shadows on the ground, cinematic fantasy style.”
+
+5. “A single red rose slowly blooming in black-and-white surroundings, time-lapse effect, soft piano music mood.”
+
+```
+
+# Results :
+
+1 :
+https://app.pixverse.ai/home?detail=show&id=361967698177328&platform=web
+
+2 :
+https://app.pixverse.ai/home?detail=show&id=361968132676151&platform=web
+
+3 :
+https://app.pixverse.ai/home?detail=show&id=361968604314168&platform=web
+
+4 :
+https://app.pixverse.ai/home?detail=show&id=361969517431915&platform=web
+
+5 :
+https://hailuoai.video/share/ai-video/QAo8APz2Rqq3?source-scene=shared&source-media=shared_link
 
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-Video generation models can be effective in reproducing an Video closely. The quality of the generated Video depends on how accurately the prompt describes the Video's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate Videos that closely match real-world visuals, which is useful for creative and practical applications.
